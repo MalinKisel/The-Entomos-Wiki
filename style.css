@@ -1,0 +1,6 @@
+:root {
+  --bgPage-color: #38c777;
+}
+body {
+  background-color: var(--bgPage-color);
+}
